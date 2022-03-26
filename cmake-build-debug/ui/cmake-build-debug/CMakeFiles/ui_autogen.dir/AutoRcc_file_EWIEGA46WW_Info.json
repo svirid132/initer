@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "D:/Project/initer/cmake-build-debug/ui/cmake-build-debug/ui_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Project/initer/cmake-build-debug/ui/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Project/initer/cmake-build-debug/ui/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Project/initer/cmake-build-debug/ui",
+	"CMAKE_SOURCE_DIR" : "D:/Project/initer/cmake-build-debug/ui",
+	"INCLUDE_DIR" : "D:/Project/initer/cmake-build-debug/ui/cmake-build-debug/ui_autogen/include",
+	"INPUTS" : [ "D:/Project/initer/cmake-build-debug/ui/assets/image.jpg" ],
+	"LOCK_FILE" : "D:/Project/initer/cmake-build-debug/ui/cmake-build-debug/CMakeFiles/ui_autogen.dir/AutoRcc_file_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "file" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_file.cpp",
+	"RCC_EXECUTABLE" : "D:/Programming/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Project/initer/cmake-build-debug/ui/cmake-build-debug/CMakeFiles/ui_autogen.dir/AutoRcc_file_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Project/initer/cmake-build-debug/ui/file.qrc",
+	"VERBOSITY" : 0
+}

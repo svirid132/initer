@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="initer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\Programming\;CMake Files\..\..\Programming\Qt\;CMake Files\..\..\Programming\Qt\5.15.2\;CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\;CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\;CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\;CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5\;CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Project/initer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Project/initer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="initer">
+				<Option output="D:/Project/initer/cmake-build-debug/initer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Project/initer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="D:/Project/initer/cmake-build-debug"/>
+					<Add directory="D:/Project/initer"/>
+					<Add directory="D:/Project/initer/cmake-build-debug/initer_autogen/include"/>
+					<Add directory="D:/Programming/Qt/5.15.2/mingw81_64/include"/>
+					<Add directory="D:/Programming/Qt/5.15.2/mingw81_64/include/QtCore"/>
+					<Add directory="D:/Programming/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 initer"/>
+					<CompileFile command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="initer/fast">
+				<Option output="D:/Project/initer/cmake-build-debug/initer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Project/initer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="D:/Project/initer/cmake-build-debug"/>
+					<Add directory="D:/Project/initer"/>
+					<Add directory="D:/Project/initer/cmake-build-debug/initer_autogen/include"/>
+					<Add directory="D:/Programming/Qt/5.15.2/mingw81_64/include"/>
+					<Add directory="D:/Programming/Qt/5.15.2/mingw81_64/include/QtCore"/>
+					<Add directory="D:/Programming/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Programming/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 initer/fast"/>
+					<CompileFile command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Project/initer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="initer_autogen">
+				<Option working_dir="D:/Project/initer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 initer_autogen"/>
+					<CompileFile command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programming/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/Project/initer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Project/initer/cmake-build-debug/initer_autogen/EWIEGA46WW/qrc_ui-with-file.cpp">
+			<Option target="initer"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/cmake-build-debug/initer_autogen/EWIEGA46WW/qrc_ui-with-file.cpp.rule">
+			<Option target="initer"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/cmake-build-debug/initer_autogen/EWIEGA46WW/qrc_ui.cpp">
+			<Option target="initer"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/cmake-build-debug/initer_autogen/EWIEGA46WW/qrc_ui.cpp.rule">
+			<Option target="initer"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/cmake-build-debug/initer_autogen/mocs_compilation.cpp">
+			<Option target="initer"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/main.cpp">
+			<Option target="initer"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/ui-with-file.qrc">
+			<Option target="initer"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/ui.qrc">
+			<Option target="initer"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/ui-with-file.qrc">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/ui.qrc">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/../../Programming/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/../../Programming/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/../../Programming/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/../../Programming/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/../../Programming/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/../../Programming/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/../../Programming/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/Project/initer/../../Programming/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\Programming\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

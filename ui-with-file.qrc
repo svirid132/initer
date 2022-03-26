@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/ui-with-file">
+    <file alias="CMakeLists.txt">assets/ui-with-file/CMakeLists.txt</file>
+    <file alias="file.qrc">assets/ui-with-file/file.qrc</file>
+    <file alias="main.cpp">assets/ui-with-file/main.cpp</file>
+    <file alias="mainwindow.cpp">assets/ui-with-file/mainwindow.cpp</file>
+    <file alias="mainwindow.h">assets/ui-with-file/mainwindow.h</file>
+    <file alias="mainwindow.ui">assets/ui-with-file/mainwindow.ui</file>
+    <file alias="assets/image.jpg">assets/ui-with-file/assets/image.jpg</file>
+  </qresource>
+</RCC>

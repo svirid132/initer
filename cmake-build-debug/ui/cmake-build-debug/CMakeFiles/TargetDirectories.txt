@@ -1,0 +1,4 @@
+D:/Project/initer/cmake-build-debug/ui/cmake-build-debug/CMakeFiles/ui.dir
+D:/Project/initer/cmake-build-debug/ui/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project/initer/cmake-build-debug/ui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Project/initer/cmake-build-debug/ui/cmake-build-debug/CMakeFiles/ui_autogen.dir
